@@ -82,30 +82,55 @@ After the Brainstorming Mindmap, we chose to go with the second idea, Story Boar
 
 ## 3. Design & Prototype
 
-* **UI Prototype (Figma):** [https://www.figma.com/design/wh4WnFMWa859B8J9VhsENy/Galaxseeing?node-id=4-54&t=zokhF11AoQ4j1K2X-1]
+**UI Prototype (Figma):** [https://www.figma.com/design/wh4WnFMWa859B8J9VhsENy/Galaxseeing?node-id=4-54&t=zokhF11AoQ4j1K2X-1]
 
-* **Main Menu:** The first page a user sees when they enter the app, displaying their upcoming and previous trips. For each trip, they can choose to enter the decision tree page in the Edit Mode or Trip Mode.
+#### Main Menu:
+The first page a user sees when they enter the app, displaying their upcoming and previous trips. For each trip, they can choose to enter the decision tree page in the Edit Mode or Trip Mode.
+<br>
+
 ![Main Menu](images/main-menu.png)
 
-* **Setup form:** This is where users first create their trip, invite collaborators, set their individual budgets and preferences, as well as pick their travel personalities.
+
+#### Setup form:
+This is where users first create their trip, invite collaborators, set their individual budgets and preferences, as well as pick their travel personalities.
+<br>
+
 ![Setup Form](images/setup-form.png)
 
-* **Group Chat Meeting Room:** Users can discuss their travel plans and send social media links of locations they want to visit, while an AI creates new locations in the decision tree based on the messages. When there are several locations in the same category, the app starts a game for users to compete between their preferred locations.
+#### Group Chat Meeting Room:
+Users can discuss their travel plans and send social media links of locations they want to visit, while an AI creates new locations in the decision tree based on the messages. When there are several locations in the same category, the app starts a game for users to compete between their preferred locations.
+<br>
+
 ![Group Chat](images/groupchat.png)
 
-* **Decision Tree (Edit Mode):** This is the decision tree where users can add and remove locations, form sub-groups if they want to split up, and select their main route of choice. Every route between two planets shows the transportation option and travel time. Each planet (location) can be clicked to show a pop-up with more information.
+#### Decision Tree:
+This is the decision tree where users can add and remove locations, form sub-groups if they want to split up, and select their main route of choice. Every route between two planets shows the transportation option and travel time. Each planet (location) can be clicked to show a pop-up with more information.
+<br>
+
 ![Decision Tree](images/decision-tree.png)
 
-* **Financial Plan:** Users can see the total estimated cost required for the trip, showing whether each member remains within budget or exceeds it.
+#### Financial Plan:
+Users can see the total estimated cost required for the trip, showing whether each member remains within budget or exceeds it.
+<br>
+
 ![Financial Plan](images/financial-plan.png)
 
-* **Trip Recap:** This appears after the trip is over, showing a summary of total spendings, journals, and photographs for all members to look back on.
+#### Trip Recap:
+This appears after the trip is over, showing a summary of total spendings, journals, and photographs for all members to look back on.
+<br>
+
 ![Trip Recap](images/trip-recap.png)
 
-* **Live Location Tracking:** Used during the trip itself to display where each member is at the moment and details of the next location in the itinerary.
+#### Live Location Tracking:
+Used during the trip itself to display where each member is at the moment and details of the next location in the itinerary.
+<br>
+
 ![Live Location Tracking](images/live-location-tracking.png)
 
-* **Photo Taking and Journaling:** For each location, members can take photographs and write journal entries to record their memories of being there.
+#### Photo Taking and Journaling:
+For each location, members can take photographs and write journal entries to record their memories of being there.
+<br>
+
 ![Photo Taking and Journaling](images/photo-and-journal.png)
 
 
