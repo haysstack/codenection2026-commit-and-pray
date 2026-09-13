@@ -87,42 +87,26 @@ After the Brainstorming Mindmap, we chose to go with the second idea, Story Boar
 * **Main Menu:** The first page a user sees when they enter the app, displaying their upcoming and previous trips. For each trip, they can choose to enter the decision tree page in the Edit Mode or Trip Mode.
 ![Main Menu](images/main-menu.png)
 
-<br>
-
 * **Setup form:** This is where users first create their trip, invite collaborators, set their individual budgets and preferences, as well as pick their travel personalities.
 ![Setup Form](images/setup-form.png)
-
-<br>
 
 * **Group Chat Meeting Room:** Users can discuss their travel plans and send social media links of locations they want to visit, while an AI creates new locations in the decision tree based on the messages. When there are several locations in the same category, the app starts a game for users to compete between their preferred locations.
 ![Group Chat](images/groupchat.png)
 
-<br>
-
 * **Decision Tree (Edit Mode):** This is the decision tree where users can add and remove locations, form sub-groups if they want to split up, and select their main route of choice. Every route between two planets shows the transportation option and travel time. Each planet (location) can be clicked to show a pop-up with more information.
 ![Decision Tree](images/decision-tree.png)
-
-<br>
 
 * **Financial Plan:** Users can see the total estimated cost required for the trip, showing whether each member remains within budget or exceeds it.
 ![Financial Plan](images/financial-plan.png)
 
-<br>
-
 * **Trip Recap:** This appears after the trip is over, showing a summary of total spendings, journals, and photographs for all members to look back on.
 ![Trip Recap](images/trip-recap.png)
-
-<br>
 
 * **Live Location Tracking:** Used during the trip itself to display where each member is at the moment and details of the next location in the itinerary.
 ![Live Location Tracking](images/live-location-tracking.png)
 
-<br>
-
 * **Photo Taking and Journaling:** For each location, members can take photographs and write journal entries to record their memories of being there.
 ![Photo Taking and Journaling](images/photo-and-journal.png)
-
-<br>
 
 
 ## 4. What Makes It Different
