@@ -10,15 +10,15 @@
 ## 1. Project Overview
 
 ### The Problem
-Trip planning is often overwhelming and time consuming because existing platforms typically address only isolated aspects of travel such as bookings, itineraries, budgeting,... Forcing users to manually piece everything together across multiple platforms. Group trips make this friction even worse, since getting everyone's schedule, individual budgets, personal preferences to line up together is difficult. While current market solutions such as Trip.com, Tripadvisor, Wanderlog, Triplt or AI assistants provide booking or basic itinerary drafting, they just lock users into a rigid, one-way schedule, not flexible. And if something suddenly goes wrong or changes mid-trip, none of those apps actually help you adjust on the plan.
+Trip planning is often overwhelming and time-consuming because existing platforms typically address only isolated aspects of travel such as bookings, itineraries, and budgeting, forcing users to manually piece everything together across multiple platforms. Group trips make this friction even worse, since getting everyone's schedule, individual budgets, personal preferences to line up together is difficult. While current market solutions such as Trip.com, Tripadvisor, Wanderlog, Triplt or AI assistants provide booking or basic itinerary drafting, they just lock users into a rigid, one-way schedule, not flexible. And if something suddenly goes wrong or changes mid-trip, none of those apps actually help you adjust on the plan.
 
 
 ### Our Solution
-Galaxseeing is a collaborative travel planner platform framed around space-exploration themes that turn travel planning into a flexible dynamic decision tree. Instead of forming a single rigid schedule, Galaxseeing generates a main travel route pair with branching backup paths for every day of the trip. In addition, an AI assistant synthesizes group chat inputs, social links, locations to get users preferences for the trip, real-time data to estimate cost, compare options, align individual budgets and generate the planets (as destination) and play games to choose the main path from multiple options. During the trip, travelers can seamlessly switch routes, upload bills, live location tracking, journaling and photo taking and finally an end-of-trip recap.
+Galaxseeing is a collaborative travel planner platform framed around space-exploration themes that turn travel planning into a flexible dynamic decision tree. Instead of forming a single rigid schedule, Galaxseeing generates a main travel route pair with branching backup paths for every day of the trip. In addition, an AI assistant synthesizes group chat inputs, social links, locations to get users' preferences for the trip, real-time data to estimate cost, compare options, align individual budgets, generate planets (as destinations) and host minigames to choose the main path from multiple options. During the trip, travelers can seamlessly switch routes, upload bills, track their live location, journal and take photographs, and finally view an end-of-trip recap.
 
-### Feature set:
+#### Features:
 * Space-Themed Interactive Decision Tree (with sub-group branching)
-* AI Group Assistant with Smart Inputs (social media link, messages,...)
+* AI Group Chat Assistant with Smart Inputs (social media link, messages)
 * Gamified Decision Making
 * Edit Mode and Trip Mode
 * Dynamic Plan Changes / Rerouting
@@ -34,7 +34,7 @@ Galaxseeing is a collaborative travel planner platform framed around space-explo
 
 | Idea | Decision | Why it was dropped / kept |
 | :--- | :--- | :--- |
-| **Interactive Decision Tree Travel Planner** | Chosen | The main concept for the application revolves around an Interactive travel itinerary where potential travel locations branch out to more locations in a decision tree format. Each location is connected by lines which represent the travel method such as by public transport, e-hailing, etc. It's a unique concept as opposed to a singular strict travel itinerary or confusing calendar layouts, and allows users to ideate and create infinite possible paths based on infinite potential situations, or reroute on the fly. |
+| **Interactive Decision Tree Travel Planner** | Chosen | The main concept for the application revolves around an interactive travel itinerary where potential travel locations branch out to more locations in a decision tree format. Each location is connected by lines which represent the travel method such as by public transport, e-hailing, etc. It's a unique concept as opposed to a singular strict travel itinerary or confusing calendar layouts, and allows users to ideate and create infinite possible paths based on infinite potential situations, or reroute on the fly. |
 | **Planetary App Concept** | Chosen | The theme of the app would revolve around aliens travelling planets on a spaceship. Each location is represented by a planet. Each user is represented by a cute alien. Together they travel the galaxy in a spaceship, finding new planets and creating new stories. |
 | **Sub-groupings in decision tree** | Chosen | From a thematic standpoint in relation to a travel planning app, aliens travelling through space and surveying new planets matches the idea of tourists visiting a new area, and it creates a more exciting/gamifying experience for users. Allows users to split up into sub-groups/go solo during their trip. During trips with large groups of people, it is rare to have everyone following the exact same itinerary, this allows users to follow their preferences without sticking with the whole group. |
 | **Main route in decision tree** | Chosen | While a travel itinerary with infinite possible routes and paths is exciting, some users who are more organized may want to pick a main concrete route that they can stick along to reduce any headaches or confusion between members of the trip. Thus, they are allowed to select a main route, but still can deviate from the main route on their trip through dynamic plan changes (explained later on). |
@@ -173,7 +173,7 @@ For each location, members can take photographs and write journal entries to rec
 ### Build Plan & Scope
 **Setup & Planning:**
 1. Trip creation and setup form
-2. Group chat meeting room + AI note taker
+2. Group chat meeting room + Autopilot AI
 3. Rocketship tie-breaker game
 
 **Decision Tree:**
