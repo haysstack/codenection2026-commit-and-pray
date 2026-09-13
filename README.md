@@ -2,7 +2,7 @@
 
 **Team:** Koh Vy San, Hayley Chan Li Qing, Janani a/p Pragash, Josh Jonathan Jones  
 **Problem Statement:** Travel Planner  
-**Video Presentation:** [Unlisted Youtube Link]  
+**Video Presentation:** [https://www.youtube.com/watch?v=FowJe-maFjg]  
 **Presentation Slides:** [https://canva.link/tbrl0r30jypqnad]  
 
 <br>
