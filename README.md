@@ -82,7 +82,7 @@ After the Brainstorming Mindmap, we chose to go with the second idea, Story Boar
 
 ## 3. Design & Prototype
 
-**UI Prototype (Figma):** [https://www.figma.com/design/wh4WnFMWa859B8J9VhsENy/Galaxseeing?node-id=4-54&t=zokhF11AoQ4j1K2X-1]
+**UI Prototype (Figma):** [https://www.figma.com/design/wh4WnFMWa859B8J9VhsENy/Galaxseeing?node-id=4-54&t=At2saD7qN2yeTfpt-1]
 
 #### Main Menu:
 The first page a user sees when they enter the app, displaying their upcoming and previous trips. For each trip, they can choose to enter the decision tree page in the Edit Mode or Trip Mode.
