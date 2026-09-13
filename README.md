@@ -58,15 +58,30 @@ Galaxseeing is a collaborative travel planner platform framed around space-explo
 ### 2.2 Ideation Boards
 
 #### Brainstorming Mindmap
-![Brainstorming Mindmap](images/brainstorming-mindmap.png)
+![Brainstorming Mindmap](images/mindmaps/brainstorming-mindmap.png)
 
 This was our first mindmap created during the brainstorming session to come up with several ideas for the app. We analysed the current stress & workload management and travel planner apps in the market, then listed out their primary usages and shortcomings. From this evaluation, we came up with two main ideas, one for each problem statement. Each idea includes its features, pros, cons, and final decision of whether we accepted or rejected the idea.
 
 <br>
 
 #### Galaxseeing / Story Board Mindmap
-![Galaxseeing Mindmap](images/galaxseeing-mindmap.png)
-After the Brainstorming Mindmap, we chose to go with the second idea, Story Board (now called Galaxseeing). This mindmap explains the features of the app based on the user flow, from Setup to Trip Recap. It also includes theming, gamification elements, inspiration, and examples for some of the features.
+After the Brainstorming Mindmap, we chose to go with the second idea, Story Board (now called Galaxseeing). We had several iterations of the mindmap as the idea kept evolving alongside our mentors' feedback throughout each session.
+
+##### 1. First Iteration
+![Galaxseeing Mindmap](images/mindmaps/galaxseeing-mindmap-first-iteration.png)
+The first version of our mindmap is similar to the one from the Brainstorming Mindmap earlier. It briefly explains the features of the app based on the user flow (Setup -> Discussion Rooms -> Decision Tree -> Budget Tracker -> Trip Recap). 
+
+##### 2. Second Iteration
+![Galaxseeing Mindmap](images/mindmaps/galaxseeing-mindmap-second-iteration.png)
+Then, we expanded on the ideas, mainly the budget tracker and trip mode, and further explained the other features to define what the app does. We also created a basic example of how the decision tree would look like.
+
+##### 3. Third Iteration
+![Galaxseeing Mindmap](images/mindmaps/galaxseeing-mindmap-third-iteration.png)
+This iteration had the biggest changes as we decided to wrap our entire idea in a more interesting concept, namely a space theme. We added more gamification elements and further defined all the features.
+
+##### 4. Final Iteration
+![Galaxseeing Mindmap](images/mindmaps/galaxseeing-mindmap-final-iteration.png)
+Lastly, we finalised the mindmap by pushing the gamification concept even more and added new cards to clearly state how they relate to the features. After finishing up this final iteration, we heavily relied on it as reference to create the user interface of our app in Figma.
 
 ---
 
@@ -82,56 +97,56 @@ After the Brainstorming Mindmap, we chose to go with the second idea, Story Boar
 
 ## 3. Design & Prototype
 
-**UI Prototype (Figma):** [https://www.figma.com/design/wh4WnFMWa859B8J9VhsENy/Galaxseeing?node-id=4-54&t=zokhF11AoQ4j1K2X-1]
+**UI Prototype (Figma):** [https://www.figma.com/design/wh4WnFMWa859B8J9VhsENy/Galaxseeing?node-id=4-54&t=At2saD7qN2yeTfpt-1]
 
 #### Main Menu:
 The first page a user sees when they enter the app, displaying their upcoming and previous trips. For each trip, they can choose to enter the decision tree page in the Edit Mode or Trip Mode.
 <br>
 
-![Main Menu](images/main-menu.png)
+![Main Menu](images/figma-ui/main-menu.png)
 
 
 #### Setup form:
 This is where users first create their trip, invite collaborators, set their individual budgets and preferences, as well as pick their travel personalities.
 <br>
 
-![Setup Form](images/setup-form.png)
+![Setup Form](images/figma-ui/setup-form.png)
 
 #### Group Chat Meeting Room:
 Users can discuss their travel plans and send social media links of locations they want to visit, while an AI creates new locations in the decision tree based on the messages. When there are several locations in the same category, the app starts a game for users to compete between their preferred locations.
 <br>
 
-![Group Chat](images/groupchat.png)
+![Group Chat](images/figma-ui/groupchat.png)
 
 #### Decision Tree:
 This is the decision tree where users can add and remove locations, form sub-groups if they want to split up, and select their main route of choice. Every route between two planets shows the transportation option and travel time. Each planet (location) can be clicked to show a pop-up with more information.
 <br>
 
-![Decision Tree](images/decision-tree.png)
+![Decision Tree](images/figma-ui/decision-tree.png)
 
 #### Financial Plan:
 Users can see the total estimated cost required for the trip, showing whether each member remains within budget or exceeds it.
 <br>
 
-![Financial Plan](images/financial-plan.png)
+![Financial Plan](images/figma-ui/financial-plan.png)
 
 #### Trip Recap:
 This appears after the trip is over, showing a summary of total spendings, journals, and photographs for all members to look back on.
 <br>
 
-![Trip Recap](images/trip-recap.png)
+![Trip Recap](images/figma-ui/trip-recap.png)
 
 #### Live Location Tracking:
 Used during the trip itself to display where each member is at the moment and details of the next location in the itinerary.
 <br>
 
-![Live Location Tracking](images/live-location-tracking.png)
+![Live Location Tracking](images/figma-ui/live-location-tracking.png)
 
 #### Photo Taking and Journaling:
 For each location, members can take photographs and write journal entries to record their memories of being there.
 <br>
 
-![Photo Taking and Journaling](images/photo-and-journal.png)
+![Photo Taking and Journaling](images/figma-ui/photo-and-journal.png)
 
 
 ## 4. What Makes It Different
