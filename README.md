@@ -62,10 +62,14 @@ Galaxseeing is a collaborative travel planner platform framed around space-explo
 
 This was our first mindmap created during the brainstorming session to come up with several ideas for the app. We analysed the current stress & workload management and travel planner apps in the market, then listed out their primary usages and shortcomings. From this evaluation, we came up with two main ideas, one for each problem statement. Each idea includes its features, pros, cons, and final decision of whether we accepted or rejected the idea.
 
+*If the mindmap is not clear enough please check the file 'Brainstorm-Mindmap.pdf' under the github repository for a clearer view of the mindmap.*
+
 <br>
 
 #### Galaxseeing / Story Board Mindmap
 After the Brainstorming Mindmap, we chose to go with the second idea, Story Board (now called Galaxseeing). We had several iterations of the mindmap as the idea kept evolving alongside our mentors' feedback throughout each session.
+
+*If any of the mindmaps are not clear enough, please check the file 'All-Galaxseeing-Iterations-Mindmaps.pdf' under the github repository for a clearer view of the mindmaps.*
 
 ##### 1. First Iteration
 ![Galaxseeing Mindmap](images/mindmaps/galaxseeing-mindmap-first-iteration.png)
